@@ -1,0 +1,15 @@
+.container {
+    padding: 3rem;   
+}
+
+button {
+  background-color: #1976d2;     /* Azul principal */
+  color: white;                  /* Texto blanco */
+  border: none;                  /* Sin borde */
+  padding: 10px 20px;            /* Espaciado interno */
+  border-radius: 6px;            /* Bordes redondeados */
+  font-size: 16px;               /* Tamaño de texto */
+  font-weight: 500;              /* Peso medio */
+  cursor: pointer;               /* Manito al pasar */
+  transition: background-color 0.3s ease; /* Suaviza el cambio de color */
+}
